@@ -1,0 +1,21 @@
+x home > lists > sizing for match flatlist items
+x app > tint menu icons on active
+x app > header component
+
+x tournaments > basic screen
+x profile > basic screen
+x live > basic screen
+x matches > basic screen
+
+x screens > tournaments
+
+- app > hd resolution assets > re-export
+
+- screens > live
+- screens > matches
+- screens > profile
+
+- home > lists > query match and tournament data on home view not inside match or tournament component
+- home > lists > present match on press
+- home > lists > present view all on press
+- home > lists > try optimized flatlists
